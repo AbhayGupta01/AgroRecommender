@@ -104,9 +104,7 @@ python app.py
 2. <a href="https://www.kaggle.com/venugopalkadamba/fertilizersrecommendation-acc-100-eda-upsampling" target="_blank">Fertilizer Recommender Notebook Link</a>
 3. <a href="https://www.kaggle.com/atharvaingle/crop-recommendation-dataset" target="_blank">Crop Dataset Link</a>
 4. <a href="https://www.kaggle.com/gdabhishek/fertilizer-prediction" target="_blank">Fertilizer Dataset Link</a>
-5. <a href="https://agriai-app-a9c34.web.app" target="_blank">Deployed Web Application Link</a>
 
-<b>NOTE: </b>Please do support by upvoting the kaggle notebooks if you liked my work.
 
 ## Tech Stack Used
 
@@ -128,9 +126,6 @@ python app.py
 
 <br/>
 
-## Demo Of Web Application
-
-<img src="./readme_assets/lappy_gif.gif" />
 
 <div align="center">
 
